@@ -13,7 +13,7 @@ const About = () => {
             <img src={AboutImg} className="about-photo" alt="awesome beach" />
           </div>
           <article className="about-info">
-            <h3>explore the difference</h3>
+            <h3>explore the world</h3>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
