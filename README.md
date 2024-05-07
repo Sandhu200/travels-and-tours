@@ -1,3 +1,3 @@
 # travels-and-tours
 
-This project is using React JS.
+This project is using React JS. Testing.
