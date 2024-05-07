@@ -31,6 +31,50 @@ export const services = [
   },
 ];
 
+export const featuredTours = [
+  {
+    id: 1,
+    image: tour1,
+    date: 'May 6th, 2024',
+    title: 'Japan Tour',
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: 'Japan',
+    duration: 6,
+    cost: 2900,
+  },
+  {
+    id: 2,
+    image: tour2,
+    date: 'November 11th, 2024',
+    title: 'best of java',
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: 'Phillipines',
+    duration: 11,
+    cost: 2300,
+  },
+  {
+    id: 3,
+    image: tour3,
+    date: 'April 1th, 2024',
+    title: 'explore hong kong',
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: 'Nepal',
+    duration: 8,
+    cost: 1000,
+  },
+  {
+    id: 4,
+    image: tour4,
+    date: 'september 15th, 2025',
+    title: 'kenya highlights',
+    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    location: 'Ice land',
+    duration: 20,
+    cost: 2300,
+  },
+];
+
+
 export const tours = [
   {
     id: 1,
