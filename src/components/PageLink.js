@@ -7,7 +7,6 @@ const PageLink = ({ href, text, className }) => {
       {/* <a className={className} href={href}>
         {text}
       </a> */}
-      console.log("Href: " + {href} + "text" + {text})
       <Link className={className} to={href}>{text}</Link>
     </li>
   );
